@@ -39,5 +39,3 @@ nosetests.xml
 *.iml
 
 .travis-solo
-
-data
